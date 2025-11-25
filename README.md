@@ -21,6 +21,4 @@ To get started, clone the repository. Follow the setup instructions in the docs 
 ## Contributing 🤝
 Contributions are always welcome. Fork the repository, make your changes, and submit a pull request to get them in.
 
-```bash
- This project focuses on building something solid and scalable. It handles shortening and managing URLs well. Plus, it adds analytics and customization to make it even more useful.
-```
+***This project focuses on building something solid and scalable. It handles shortening and managing URLs well. Plus, it adds analytics and customization to make it even more useful.***
